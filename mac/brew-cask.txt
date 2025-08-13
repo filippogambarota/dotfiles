@@ -1,0 +1,16 @@
+alt-tab
+dmenu-mac
+flameshot
+fuse-t
+fuse-t-sshfs
+icanhazshortcut
+iterm2
+maccy
+macfuse
+r
+r-app
+rstudio
+tigervnc-viewer
+ukelele
+vorta
+zettlr

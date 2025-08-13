@@ -190,9 +190,17 @@ function bmessage(){
 
 function bdots(){
     brew leaves > ~/dev/dotfiles/mac/brew.txt
+    brew list --cask > ~/dev/dotfiles/mac/brew-cask.txt
     bmessage brew
+
     cp -fr ~/.zshrc ~/dev/dotfiles/mac/.zshrc
     bmessage .zshrc
+
+    pip freeze > ~/dev/dotfiles/mac/pip.txt
+    bmessage pip
+
+    ls /Applications > ~/dev/dotfiles/mac/apps.txt
+
     cd ~/dev/dotfiles
     git add .
     git commit -m "updating dotfiles"

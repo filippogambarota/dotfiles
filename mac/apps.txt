@@ -1,0 +1,45 @@
+Alfred 5.app
+AltTab.app
+Bitwarden.app
+Caffeine.app
+Command X.app
+Company Portal.app
+Cyberduck.app
+daily-notes.app
+DemoPro.app
+Docker.app
+draw.io.app
+GitHub Desktop.app
+Google Chrome.app
+GoSign-Desktop.app
+iCanHazShortcut.app
+Inkscape.app
+Insync.app
+iTerm.app
+Julia-1.9.app
+Kap.app
+Let’s Connect!.app
+Maccy.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Obsidian.app
+Paperpile.app
+Pika.app
+Positron.app
+ProtonVPN.app
+Python 3.11
+quarto
+R.app
+Safari.app
+Scroll Reverser.app
+Utilities
+UTM.app
+Vorta.app
+Wacom Tablet.localized
+WirelessMedia.app
+Wolfram.app
+WolframScript.app
+Xcode.app
+Zed.app
+zoom.us.app
