@@ -202,6 +202,7 @@ function bdots(){
     ls /Applications > ~/dev/dotfiles/mac/apps.txt
 
     cd ~/dev/dotfiles
+    rmds
     git add .
     git commit -m "updating dotfiles"
     git push
